@@ -18,7 +18,7 @@
 <p></p>
 <b>
 <ul>
-  <<li>title - Name of Song;</li>
+  <li>title - Name of Song;</li>
   <li>artist - Name of the Artist;</li>
   <li>top genre - The genre of the song</li>
   <li>year - The year the song was releasedThe year the song was released</li>
