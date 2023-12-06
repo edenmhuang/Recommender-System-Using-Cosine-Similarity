@@ -1,1 +1,4 @@
 main_cosine_similarity_song_recommendation-2.ipynb
+.ipynb_checkpoints/
+[filter "jupyter"]
+clean = git clean -f -d .ipynb_checkpoints/
